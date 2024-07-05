@@ -1,8 +1,9 @@
 # Problem-Solving
 We will work on solving Mr. Mostafa Saad's problem-solving sheet, which consists of approximately 950 problems.
 
-##Importants Notes
-######Understanding the Problem
+## Importants Notes
+
+###### Understanding the Problem
 Read Carefully: Understand every part of the problem.
 Define Inputs/Outputs: Identify given inputs and expected outputs.
 Break Down: Split the problem into smaller parts.
